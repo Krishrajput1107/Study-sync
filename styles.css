@@ -263,7 +263,7 @@ body{
     border: none;
     border-radius: 0.625rem;
     margin-top: 2.0rem;
-    margin-bottom: 10rem;
+    margin-bottom: 2rem;
     padding: 1.8rem 2.5rem;
 }
 
@@ -292,4 +292,10 @@ body{
         font-weight: bold;
     }
     
+}
+
+.feature-container{
+    background-color: var(--light-gray);
+    padding: 2rem 0;
+    align-items: center;
 }
