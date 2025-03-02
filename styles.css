@@ -397,7 +397,23 @@ body{
 
 .testimonial-container{
     background-color: var(--background-color);
-    padding: 0 2rem;
+    padding: 2rem;
     margin: 0 auto;
     max-width: 1280px;
+}
+
+.testimonial-content{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.testimonial-title{
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+.testimonial-grid{
+    display: grid;
+    grid-template-columns: repeat(autofill,minmax(300px,1fr));
 }
