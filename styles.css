@@ -595,6 +595,7 @@ body{
     text-align: left;
     display: flex;
     justify-content: space-between;
+    padding-right: 2rem;
 
 }
 
@@ -634,11 +635,17 @@ body{
     color: #777;
 }
 
+.social{
+    display: flex;
+    gap: 0.8rem;
+}
 .footer-grid{
+    padding-top: 2rem;
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grid-gap:9rem;
-    padding: 2rem 1rem;
+    width: 58%;
+    grid-gap:5.67rem;
+    /* padding: 2rem 1rem; */
 }
 
 .footer-grid-heading{
@@ -652,11 +659,21 @@ ul{
 }
 .footer-link{
     color: #777;
-    font-size: 1rem;
+    font-size: 0.875rem;
 }
 
 .footer-links-list{
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+}
+
+.footer-copyright{
+    color: gray;
+    font-size: 0.75rem;
+
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+    border-top: 1px solid #E5E7EB;
+    padding-top: 1.15rem;
 }
