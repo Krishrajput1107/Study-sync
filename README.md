@@ -35,16 +35,16 @@ open index.html   # macOS/Linux
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page](Screenshots/Homepage.png)
+![Home Page](screenshots/Homepage.png)
 
 ### 🔹 Features Section
-![Features](Screenshots/Features.png)
+![Features](screenshots/Features.png)
 
 ### 🔹 Contact Page
-![Contact Page](Screenshots/Contact.png)
+![Contact Page](screenshots/Contact.png)
 
 ### 🔹 Footer
-![Footer Page](Screenshots/Footer.png)
+![Footer Page](screenshots/Footer.png)
 
 🔮 Future Enhancements
 
