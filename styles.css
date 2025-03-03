@@ -591,7 +591,7 @@ body{
 
 .footer{
     max-width: 1280px;
-    padding: 1rem;
+    padding: 1.2 2.4rem;
     text-align: left;
     display: flex;
     justify-content: space-between;
@@ -600,6 +600,9 @@ body{
 
 .footer-left{
     width: 34%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.65rem;
 }
 .logo-link{
     display: flex;
@@ -609,10 +612,12 @@ body{
     gap: 0.8rem;
     font-size: 1.28rem;
     font-weight: bold;
+    color: black;
 }
 .comp-logo{
     display: flex;
     justify-content: flex-start;
+    margin-bottom: -1.9rem;
 }
 .logo-svg{
     width: 2rem;
@@ -627,4 +632,31 @@ body{
 .filler-text{
     font-size: 1rem;
     color: #777;
+}
+
+.footer-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap:9rem;
+    padding: 2rem 1rem;
+}
+
+.footer-grid-heading{
+    font-size: 1.05rem;
+    font-weight: bold;
+    color: var(--text-color);
+    margin-bottom: 1.65rem;
+}
+ul{
+    list-style-type: none;
+}
+.footer-link{
+    color: #777;
+    font-size: 1rem;
+}
+
+.footer-links-list{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
 }
