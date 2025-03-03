@@ -1,8 +1,8 @@
-📚 StudySync
+#📚 StudySync
 
 StudySync is a simple educational website built using HTML and CSS. It provides a visually appealing and responsive design for users to explore educational content.
 
-🚀 Features
+##🚀 Features
 
 🎨 Modern UI – Clean and visually appealing interface.
 
@@ -22,13 +22,13 @@ CSS – Styling & layout design.
 📥 Installation & Usage
 
 To run StudySync on your local machine, follow these steps:
-# Clone the repository
+Clone the repository
 git clone https://github.com/Krishrajput1107/studysync.git
 
-# Navigate to the project directory
+Navigate to the project directory
 cd studysync
 
-# Open the index.html file in your browser
+Open the index.html file in your browser
 start index.html  # Windows
 open index.html   # macOS/Linux
 
@@ -62,7 +62,6 @@ open index.html   # macOS/Linux
 
 Krish Rajput (@Krishrajput1107)
 
-)
 
 📌 Feel free to contribute and enhance StudySync! 🚀
 
