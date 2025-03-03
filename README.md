@@ -1,8 +1,8 @@
-#📚 StudySync
+📚 Study-Sync
 
 StudySync is a simple educational website built using HTML and CSS. It provides a visually appealing and responsive design for users to explore educational content.
 
-##🚀 Features
+🚀 Features
 
 🎨 Modern UI – Clean and visually appealing interface.
 
