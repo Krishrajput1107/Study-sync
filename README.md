@@ -35,7 +35,7 @@ open index.html   # macOS/Linux
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page](screenshots/Homepage.png)
+![Home Page](screenshots/Home.png)
 
 ### 🔹 Features Section
 ![Features](screenshots/Features.png)
